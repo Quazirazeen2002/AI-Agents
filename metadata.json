@@ -1,0 +1,5 @@
+{
+  "name": " Gemini Omni-RAG",
+  "description": "A powerful serverless RAG (Retrieval-Augmented Generation) agent that leverages Gemini's massive context window to analyze uploaded documents and perform web-grounded research entirely in the browser.",
+  "requestFramePermissions": []
+}
